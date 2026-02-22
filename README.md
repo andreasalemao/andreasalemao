@@ -1,112 +1,100 @@
-# 👨‍💻 Andreas Siebert
-### 🌱 AgTech Technology Specialist | 💻 Full Stack Developer | 📡 IoT & Infrastructure
+# 👨‍💻 Andreas | AgTech Specialist | Technology & Innovation
 
-Especialista em integração de tecnologia no agronegócio, combinando desenvolvimento de software, sistemas embarcados e infraestrutura corporativa para criar soluções escaláveis e aplicáveis ao mundo real.
-
----
-
-## 🚀 Sobre Mim
-
-Sou Técnico Agrícola com formação superior em Tecnologia e pós-graduação em Desenvolvimento Mobile.  
-Minha atuação conecta **campo + software + infraestrutura**, desenvolvendo soluções que envolvem:
-
-- 🌐 Sistemas Web e APIs REST  
-- 📱 Aplicações Mobile  
-- 📡 IoT (ESP8266, ESP32, Arduino)  
-- 🗄️ Banco de Dados e modelagem relacional  
-- 🌐 Redes corporativas e Active Directory  
-- 🏢 Implantação e suporte de ERP  
-
-Tenho experiência tanto no desenvolvimento quanto na implantação e manutenção de sistemas em ambientes corporativos e varejo.
+🚜 Especialista em Tecnologia Aplicada ao Agronegócio  
+💻 Desenvolvedor com foco em integração entre software, hardware e campo  
+🌍 Português | Alemão (Nativo) | Inglês (Intermediário)
 
 ---
 
-# 🛠️ Tech Stack
+## 🚜 Sobre Mim
 
-## 💻 Linguagens & Web
+Profissional com sólida experiência em tecnologia agrícola, desenvolvimento de sistemas e infraestrutura de TI.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+Atuo como **Especialista em Manutenção e Operação de Máquinas Agrícolas**, com foco em:
 
----
+- 🔧 Diagnóstico eletrônico e técnico avançado
+- ⚙ Otimização de performance de máquinas
+- 🛰 Agricultura de precisão
+- 📡 Tecnologia embarcada
+- 📊 Análise de dados operacionais
+- 🎓 Treinamento técnico para operadores e equipes
 
-## 📡 IoT & Sistemas Embarcados
-
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-✔ Comunicação com sensores  
-✔ Integração com APIs  
-✔ Monitoramento remoto  
-✔ Automação  
+Integro tecnologia e produtividade no campo, conectando sistemas, pessoas e performance.
 
 ---
 
-## 🌐 Infraestrutura & Redes
+## 🎓 Formação
 
-![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=windows&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-005571?style=for-the-badge&logo=cisco&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-✔ Redes de computadores  
-✔ Servidor de Domínio (AD)  
-✔ Configuração de ambientes corporativos  
-✔ Hospedagem Web  
+- 🎓 Técnico Agrícola – 2002  
+- 🎓 Superior em Gestão em Tecnologia – 2012  
+- 🎓 Pós-graduação em Gestão e Desenvolvimento de Aplicativos Mobile – 2026  
 
 ---
 
-## 🏢 Sistemas Corporativos
+## 💻 Tecnologias & Competências
 
-✔ Instalação e manutenção de ERP  
-✔ Implantação para:
-- Postos de combustível  
-- Farmácias  
-- Lojas diversas  
-- Supermercados  
+### 👨‍💻 Desenvolvimento
+- HTML
+- CSS
+- PHP
+- C++ (ESP / Arduino)
+- Desenvolvimento Mobile
+- Hospedagem Web
 
-✔ Parametrização e suporte técnico  
+### 🗄 Banco de Dados
+- MySQL
+- SQL Server
 
----
+### 🖥 Infraestrutura & Redes
+- Redes de Computadores
+- Servidor de Domínio (Active Directory)
+- Suporte Técnico Corporativo
 
-# 📊 GitHub Stats
+### 🏢 Sistemas & ERP
+- Instalação e manutenção de ERP
+  - Postos de combustível
+  - Farmácias
+  - Lojas diversas
+  - Supermercados
 
-![Andreas GitHub stats](https://github-readme-stats.vercel.app/api?username=andreasalemao&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreasalemao&layout=compact&theme=dark)
-
----
-
-# 🎓 Formação
-
-- 🌱 Técnico Agrícola – 2002  
-- 💻 Superior em Gestão em Tecnologia – 2012  
-- 📱 Pós-graduação em Gestão e Desenvolvimento de Aplicativos Mobile – 2026  
-
----
-
-# 🌍 Idiomas
-
-- 🇧🇷 Português – Fluente  
-- 🇩🇪 Alemão – Nativo  
-- 🇺🇸 Inglês – Intermediário  
+### 📊 Gestão & Projetos
+- Gestão de Projetos
+- Jira
+- Trello
+- Pacote Office
 
 ---
 
-# 🎯 Posicionamento Profissional
+## 🌱 Especialidade Estratégica
 
-Busco atuar em projetos que envolvam:
-
-- 🚜 Tecnologia aplicada ao Agronegócio (AgTech)  
-- 📡 IoT e monitoramento inteligente  
-- 💻 Desenvolvimento Web & Mobile  
-- 🏢 Infraestrutura corporativa  
-- 🔗 Integração entre software e hardware  
+🔹 Tecnologia aplicada ao agronegócio  
+🔹 Integração entre máquinas agrícolas e sistemas digitais  
+🔹 Diagnóstico, otimização e eficiência operacional  
+🔹 Capacitação técnica e treinamento de equipes  
 
 ---
 
-📫 Aberto a oportunidades e projetos estratégicos.
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Conectar **Tecnologia, Inovação e Agronegócio**, desenvolvendo soluções que aumentem produtividade, eficiência e inteligência operacional no campo.
+
+---
+
+## 📫 Contato
+
+💼 [LinkedIn – Andreas Siebert](https://www.linkedin.com/in/andreas-siebert-5635455b/)
+- 📧 Email: andreassiebert3@gmail.com
+
+---
+
+⭐ Sempre aprendendo | Sempre evoluindo | Sempre inovando
+
