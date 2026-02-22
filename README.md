@@ -26,7 +26,7 @@ Integro tecnologia e produtividade no campo, conectando sistemas, pessoas e perf
 ## 🎓 Formação
 
 - 🎓 Técnico Agrícola – 2002  
-- 🎓 Superior em Gestão em Tecnologia – 2012  
+- 🎓 Superior em Gestão em Tecnologia – 2014  
 - 🎓 Pós-graduação em Gestão e Desenvolvimento de Aplicativos Mobile – 2026  
 
 ---
